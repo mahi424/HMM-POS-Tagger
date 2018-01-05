@@ -1,0 +1,1 @@
+William/NNP  the/DT mayor/NNP resigned/VBD and/CC relative/JJ took/NNP his/PP  dog/NNP
